@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/feed_id"
+        android:title="Feed"
+        android:icon="@drawable/feed_icon"/>
+
+    <item
+        android:id="@+id/my_ramadan_id"
+        android:title="My Ramadan"
+        android:icon="@drawable/my_ramadan_icon"/>
+
+    <item
+        android:id="@+id/quran_id"
+        android:icon="@drawable/quran_menu_icon"
+        android:title="Quran" />
+
+    <item
+        android:id="@+id/muhasba_id"
+        android:icon="@drawable/muhasbah"
+        android:title="Muhasba" />
+    <item
+        android:id="@+id/report_id"
+        android:icon="@drawable/report_icon"
+        android:title="Report" />
+
+</menu>
